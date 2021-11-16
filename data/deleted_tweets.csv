@@ -1,0 +1,2 @@
+description,name,username,author_id,tweet_id,text,hashtags,created_at,mined_at,like_count,quote_count,reply_count,retweet_count,has_media
+A swell guy,John Doe,johndoe,123,100,This is the body text of the tweet #hashtag1 #hashtag2,"['hashtag1', ‘hashtag2’]",2021-10-01T23:06:04.000Z,2021-11-11 14:15:43.148432,1,0,0,1,1
