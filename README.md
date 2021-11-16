@@ -27,7 +27,7 @@ To format these tweets and their associated images as an HTML page, run:
 python 2_html_viewer.py
 ```
 
-Finally, although Twitter users don't need to give their informed consent for us to use their data, we still need to respect their personal autonomy by excluding tweets from our analysis that have been removed from Twitter (e.g., if the original tweet was deleted, or if the user made their account private).
+Finally, although Twitter users don't need to give their informed consent for us to use their publicly posted data, we still need to respect their personal autonomy by excluding tweets from our analysis that have been removed from Twitter (e.g., if the original tweet was deleted, or if the user made their account private).
 To identify which tweets have been removed since the initial data collection, re-run `1_get_tweets.py` with output saved this time to `data2/`, not `data/` (lines 164–165), and then run:
 
 ```
