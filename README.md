@@ -1,7 +1,7 @@
 # Query Twitter API v2 for all tweets with a given hashtag using Python/tweepy
 
 Scripts to:
-1. Query the Twitter API v2 for all primary tweets (that is, not retweets or quote tweets) with the hashtag #Scotstober posted in the month of October 2021.
+1. Query the Twitter API v2 for all primary tweets (that is, not retweets or quote tweets) with the hashtag [#Scotstober](https://twitter.com/search?q=%23Scotstober&src=typed_query) posted in the month of October 2021.
 2. Format the gathered data as a more readable HTML file (which can then be opened in a browser and exported as PDF, if desired).
 3. Identify which tweets have been deleted between initial and subsequent data collection, so that these can be removed from the data set.
 
